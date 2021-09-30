@@ -1,0 +1,7 @@
+### Shell environment set up for build acrlinux. ###
+
+You can now run 'bitbake <target>'
+
+Common targets are:
+    acrlinux-minimal
+    acrlinux
